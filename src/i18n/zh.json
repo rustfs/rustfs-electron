@@ -1,0 +1,42 @@
+{
+  "app": {
+    "title": "RustFS 管理器"
+  },
+  "common": {
+    "settings": "设置",
+    "back": "返回",
+    "reset": "重置",
+    "saveAndRestart": "保存并重启"
+  },
+  "dashboard": {
+    "serviceStatus": "服务运行在",
+    "serviceRunning": "服务运行中",
+    "startService": "启动服务"
+  },
+  "settings": {
+    "service": "服务",
+    "user": "用户",
+    "serviceAddress": "服务地址",
+    "serviceAddressHelp": "服务地址是指服务的 IP 地址和端口号，默认地址为 127.0.0.1:9000。",
+    "hostPlaceholder": "127.0.0.1",
+    "portPlaceholder": "9000",
+    "storagePath": "存储路径",
+    "storagePathHelp": "更新服务的存储路径，默认路径为D:\\rustfs-file。",
+    "storagePathPlaceholder": "D:\\rustfs-file",
+    "username": "用户",
+    "usernameHelp": "账号是该服务的所有者，默认账号为 rustfsadmin",
+    "usernamePlaceholder": "rustfsadmin",
+    "password": "密码",
+    "passwordHelp": "密码是该账号的登录密码。",
+    "passwordPlaceholder": "请输入密码"
+  },
+  "footer": {
+    "website": "官方网站",
+    "documentation": "文档"
+  },
+  "messages": {
+    "serviceStarted": "服务启动成功",
+    "serviceStopped": "服务停止成功",
+    "settingsSaved": "设置保存成功"
+  }
+}

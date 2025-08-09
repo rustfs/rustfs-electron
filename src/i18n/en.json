@@ -1,0 +1,41 @@
+{
+  "app": {
+    "title": "RustFS Manager"
+  },
+  "common": {
+    "back": "Back",
+    "reset": "Reset",
+    "saveAndRestart": "Save and Restart"
+  },
+  "dashboard": {
+    "serviceStatus": "Service is running on",
+    "serviceRunning": "Service running",
+    "startService": "Start Service"
+  },
+  "settings": {
+    "service": "Service",
+    "user": "User",
+    "serviceAddress": "Service Address",
+    "serviceAddressHelp": "Service address is the IP address and port number of the service, default address is 127.0.0.1:9000.",
+    "hostPlaceholder": "127.0.0.1",
+    "portPlaceholder": "9000",
+    "storagePath": "Storage Path",
+    "storagePathHelp": "Update the storage path of the service, default path is D:\\rustfs-file.",
+    "storagePathPlaceholder": "D:\\rustfs-file",
+    "username": "Username",
+    "usernameHelp": "Username is the owner of this service, default username is rustfsadmin",
+    "usernamePlaceholder": "rustfsadmin",
+    "password": "Password",
+    "passwordHelp": "Password is the login password for this account.",
+    "passwordPlaceholder": "Enter password"
+  },
+  "footer": {
+    "website": "Office Website",
+    "documentation": "Documentation"
+  },
+  "messages": {
+    "serviceStarted": "Service started successfully",
+    "serviceStopped": "Service stopped successfully",
+    "settingsSaved": "Settings saved successfully"
+  }
+}
